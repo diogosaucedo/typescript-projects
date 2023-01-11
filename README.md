@@ -10,6 +10,8 @@ This repository gathers projects built with React and TypeScript. The projects h
 
 | **Name** | **GitHub** | **Preview Site** | **Desktop** | **Mobile** |
 |--|--|--|--|--|
+|TODOApp - Front-end|[Link](https://github.com/diogosaucedo/todo-app-frontend)| Unavailable| ✅ | ❌ |
+|TODOApp - API|[Link](https://github.com/diogosaucedo/todo-app-backend)| Unavailable| ❌ | ❌ |
 |Markdown Editor|[Link](https://github.com/diogosaucedo/markdown-editor)| [Link](https://diogosaucedo.github.io/markdown-editor/)| ✅ | ❌ |
 |Binary Search|[Link](https://github.com/diogosaucedo/binary-search)| [Link](https://diogosaucedo.github.io/binary-search/)| ✅ | ✅ |
 |Lap Counter|[Link](https://github.com/diogosaucedo/lap-counter)| [Link](https://diogosaucedo.github.io/lap-counter/)| ✅ | ❌ |
