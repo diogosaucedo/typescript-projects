@@ -10,6 +10,7 @@ This repository gathers projects built with React and TypeScript. The projects h
 
 | **Name** | **GitHub** | **Preview Site** | **Desktop** | **Mobile** |
 |--|--|--|--|--|
+|MKS-Frontend-Challenge|[Link](https://github.com/diogosaucedo/mks-frontend-challenge)|[Link](https://mks-frontend-challenge-bice.vercel.app/)|✅|✅|
 |TODOApp - Front-end|[Link](https://github.com/diogosaucedo/todo-app-frontend)| Unavailable| ✅ | ❌ |
 |TODOApp - API|[Link](https://github.com/diogosaucedo/todo-app-backend)| Unavailable| ❌ | ❌ |
 |Markdown Editor|[Link](https://github.com/diogosaucedo/markdown-editor)| [Link](https://diogosaucedo.github.io/markdown-editor/)| ✅ | ❌ |
